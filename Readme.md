@@ -9,8 +9,11 @@ Como funciona o GIT e seus comandos
 Tudo oque eu preciso saber estará aqui nesse README
 
 //Abrir o vscode pela linha de comando
+
 *git config --global -e
+
 *git config --global core.editor "code -- wait"
+
 
 //Verifico o Status do arquivo
 
